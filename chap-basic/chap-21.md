@@ -17,7 +17,7 @@
 
 **注意**
 
-请联系 eayun 的客服工程师或者查询易云的相关文档了解各个版本的 SPICE
+请联系 oVirt 的客服工程师或者查询易云的相关文档了解各个版本的 SPICE
 客户端支持的的特性列表
 
 使用 Mozilla Firefox 访问虚拟机的时候，SPICE 客户端由 spice-xpi 软件包
